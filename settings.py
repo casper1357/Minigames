@@ -1,0 +1,12 @@
+standardResWidth = 1920
+standardResHeight = 1080
+fps = 60
+gameTitle = "Minigames"
+icon = ""
+standardPathImages = "resources/images/"
+ticTacToe = False
+settings = False
+click = False
+hangmanbutton = [[728, 1246], [716, 880]]
+words = ["papa"]
+dashpicsize = [107, 15]
